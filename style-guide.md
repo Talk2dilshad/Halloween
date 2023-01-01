@@ -1,7 +1,7 @@
 <p align="center">
   Developed by ❤ Dilshad
 </p>  
-<h2>Live Preview 🔥 https://quicknotesbydilshad.netlify.app/</h2>
+<h2>Live Preview 🔥 https://halloweendi.netlify.app/</h2>
 # Essential Stuff
 
 ## Html import links
